@@ -2,5 +2,5 @@
 python3 create_repositories
 
 ## Features
-organizationのリポジトリをまとめて作成できるファイルです
+A file that allows you to create a collective repository for organization
 
